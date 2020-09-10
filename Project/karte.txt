@@ -1,0 +1,6 @@
+jiad|ajsid|adji|AA0005|DME|KZN|5:15|12:15|26/13|asjdi|Aerocondor|28.02.2017|uto|140|23.02.2017|Pera
+asjda|asd|asd|AA0012|KGD|KZN|10:00|14:00|17/6|asd|Aerocondor|28.02.2017|uto|80|24.02.2017|Pera
+Pera|Peric|19997294|AA0011|GYD|NBC|19:00|3:00|5c|Srbin|Aerocondor|02.03.2017|cet|160|24.02.2017|Pera
+Aleksandar|Milenovic|1997999|AA0012|KGD|EGO|10:00|14:00|6b|Srbin|Aerocondor|28.02.2012|uto|80|24.02.2017|Stojan
+aw|sda|asd|AA0013|KZN|AER|00:00|4:00|4c|sda|Aerocondor|27.02.2012|pon|60|24.02.2017|Pera
+Stojan|Velickovic|123-321|AA0012|KGD|EGO|10:00|14:00|5b|Srbin|Aerocondor|28.02.2017|uto|80|24.02.2017|Stojan
